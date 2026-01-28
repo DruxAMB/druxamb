@@ -5,7 +5,7 @@ MERN Stack | Nextjs | React Native Developer
 --------------------------------------------
 
 *   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [My Portfolio](http://druxamb.github.io/DruxAMB-Portfolio/)
+*   🖥️  See my portfolio at [My Portfolio](http://druxamb.dev)
 *   ✉️  You can contact me at [druxambsite@gmail.com](mailto:druxambsite@gmail.com)
 *   🧠  I'm learning React Native
 *   🤝  I'm open to collaborating on any projects
